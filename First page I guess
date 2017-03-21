@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <Title>First Goddamn Webpage ever</title>
+</head>
+<body>
+  <H1>First Fucking Page</h1>
+	<p>This is the first fucking webpage I have ever created. Its going to look like :hankey:. But I figure, fuck it, if I need to learn Git as well as basic HTML shit, I might as well get started here.</p>
+	<p>Here's a photo of a bear I stole from <a href="https://www.wikipedia.com">Wikipedia</a>. Whatever.
+	<p><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/2010-brown-bear.jpg"></p>
+	<p>Here's a list of reasons why I'm doing this shit</p>
+	<ol>
+		<li>The world is changing fast and being taken over by nerds</li>
+		<li>I am currnetly not the kind of nerd that can make money</li>
+		<li>I like having and making money</li>
+	</ol>
